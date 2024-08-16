@@ -4,7 +4,7 @@
 # If you want to train the model, comment out the code for test and run the bash file,
 # And if you want to test the model, comment out the code for train and run the bash file.
 
-# Create on 2024-7-1 Saturday.
+# Create on 2024-7-1.
 
 ### Initial hyperparameter
 ROOT="./datasets/OIMHS" # Relative path to the dataset
